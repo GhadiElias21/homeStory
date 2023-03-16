@@ -1,0 +1,7 @@
+.app{
+  background: #2C2C2E;
+  width: 100%;
+ 
+  backdrop-filter: blur(5.5px);
+ 
+}
